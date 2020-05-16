@@ -11,7 +11,7 @@ obtained from it to those obtained by simulating Linux TCP Veno.
 
 ### Prerequisites
 * Clone this repository https://hub.docker.com/r/thehajime/ns-3-dce/dockerfile.
-* Install gnuplot.
+* Install gnuplot "sudo apt-install gnuplot".
 
 ### Recommended Reading:
 * Direct Code Execution (Link:
