@@ -10,8 +10,9 @@ project, the aim is to validate ns-3 TCP Veno by implementing it using ns-3-dce-
 obtained from it to those obtained by simulating Linux TCP Veno.
 
 ### Prerequisites
-* Clone this repository https://hub.docker.com/r/thehajime/ns-3-dce/dockerfile.
-* Install gnuplot "sudo apt-install gnuplot".
+* Install docker (Link: https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-18-04)
+* Pull the docker container (Link: https://hub.docker.com/r/thehajime/ns-3-dce)
+* Install gnuplot (Link: https://zoomadmin.com/HowToInstall/UbuntuPackage/gnuplot)
 
 ### Recommended Reading:
 * Direct Code Execution (Link:
